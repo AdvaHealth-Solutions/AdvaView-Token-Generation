@@ -1,0 +1,14 @@
+{
+  "name": "advaview-launch-token-example",
+  "version": "1.0.0",
+  "description": "Example: generating an AdvaView launch token in Node.js",
+  "private": true,
+  "type": "module",
+  "main": "generate-token.mjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "jose": "^6.2.18"
+  }
+}

@@ -1,0 +1,23 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java
+target/
+dependency-reduced-pom.xml
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+.venv/
+
+# Go
+/go/advaview-launch-token-generator
+/go/advaview-launch-token-generator.exe
+
+# .NET
+bin/
+obj/
